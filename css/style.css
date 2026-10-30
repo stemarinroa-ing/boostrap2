@@ -1,61 +1,71 @@
-* {
-    box-sizing: border-box;
-    border: 2px solid #000;
-}
+    * {
+        box-sizing: border-box;
+    }
 
-.caja1 {
-    background-color: #ffbb00;
-    height: 100px;
-}
+    body {
+        background-color: #494949;
+    }
 
-.caja2 {
-    background-color: #722479;
-    height: 100px;
-}
+    .boder {
+        background-color: #d6116d;
+    }
 
-.caja3 {
-    background-color: #ffbb00;
-    height: 100px;
-}
+    .caja1 {
+        background-color: #F0D6D6;
+        height: 100px;
+    }
 
-.caja4 {
-    background-color: #722479;
-    height: 100px;
-}
+    .caja2 {
+        background-color: #FFCCCC;
+        height: 100px;
+    }
 
+    .caja3 {
+        background-color: #FF9BB1;
+        height: 100px;
+    }
 
-.caja5 {
-    background-color: #ffbb00;
-    height: 100px;
-}
+    .caja4 {
+        background-color: #FB4062;
+        height: 100px;
+    }
 
-.caja6 {
-    background-color: #722479;
-    height: 100px;
-}
+    .caja6 {
+        background-color: #DA0929;
+        height: 100px;
+    }
 
+    .caja7 {
+        background-color: #AD3648;
+        height: 100px;
+    }
 
-.caja7 {
-    background-color: #ffbb00;
-    height: 100px;
-}
+    .caja8 {
+        background-color: #67202B;
+        height: 100px;
+    }
 
-.caja8 {
-    background-color: #722479;
-    height: 100px;
-}
+    .caja9 {
+        background-color: #1F0809;
+        height: 100px;
+    }
 
+    .caja10 {
+        background-color: #3a0413;
+        height: 100px;
+    }
 
-.caja9 {
-    background-color: #ffbb00;
-    height: 100px;
-}
+    .caja11 {
+        background-color: #F0D6D6;
+        height: 100px;
+    }
 
-.caja10 {
-    background-color: #722479;
-    height: 100px;
-}
+    .caja12 {
+        background-color: #FFCCCC;
+        height: 100px;
+    }
 
-
-
-
+    .caja13 {
+        background-color: #FF9BB1;
+        height: 100px;
+    }
